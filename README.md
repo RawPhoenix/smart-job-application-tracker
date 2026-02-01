@@ -83,13 +83,17 @@ Storage Layer → File persistence
 
 ### 1️⃣ Clone the repository
 
-    git clone https://github.com/your-username/smart-job-application-tracker.git
+    git clone https://github.com/RawPhoenix/smart-job-application-tracker.git
 
     cd smart-job-application-tracker
 
 2️⃣ Run the application
 
     python main.py
+
+> **Note:**  
+> The `applications.csv` file contains sample dummy data for demonstration purposes only.  
+> No real job application data is included.
 
 ---
 
